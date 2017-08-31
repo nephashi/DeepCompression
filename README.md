@@ -13,6 +13,7 @@ this would train a convolution model on mnist. Then do pruning on fc layer and r
 ## Performance
 
 we have a pretty good pruning performance, keep accuracy at 0.987 while pruning 99.77% weights in fc layer.
+
 |weight kept ratio|accuracy|
 |-----------------|--------|
 |1                |0.99    |
