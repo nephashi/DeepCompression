@@ -3,7 +3,7 @@ An implementation of Iterative Pruning, current on mnist only.
 Thanks [this repository](https://github.com/garion9013/impl-pruning-TF)
 
 ## Usage
-###Iterative Pruning
+### Iterative Pruning
 ```
 cd mnist_iterative_pruning
 python iterative_prune.py -1 -2 -3
@@ -12,6 +12,7 @@ this would train a convolution model on mnist. Then do pruning on fc layer and r
 
 ## Performance
 
+we have a pretty good pruning performance, keep accuracy at 0.987 while pruning 99.77% weights in fc layer.
 |weight kept ratio|accuracy|
 |-----------------|--------|
 |1                |0.99    |
@@ -28,3 +29,5 @@ this would train a convolution model on mnist. Then do pruning on fc layer and r
 |0.0011           |0.886   |
 |0.00079          |0.677   |
 |0.00056          |0.409   |
+
+in term of inference time, dense vs sparse: 1.47 vs 0.68
