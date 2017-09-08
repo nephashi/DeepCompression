@@ -1,0 +1,2 @@
+./cifar10_iterative_pruning\models\*
+./cifar10_iterative_pruning\cifar10_data\*
