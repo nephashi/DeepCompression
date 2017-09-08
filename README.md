@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-An implementation of Iterative Pruning for tensorflow 1.3, current on mnist only.
-=======
 An implementation of [Iterative Pruning](https://arxiv.org/abs/1506.02626), current on mnist only.
->>>>>>> origin/master
 
 Thanks [this repository](https://github.com/garion9013/impl-pruning-TF)
 
