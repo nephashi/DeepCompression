@@ -1,0 +1,2 @@
+total pruning iteration: 20. pruning percentage each iter: 0.7
+iteration 0, p=0.7

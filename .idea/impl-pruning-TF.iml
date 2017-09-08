@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/cifar10_iterative_pruning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cifar10_tutorial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mnist_iterative_pruning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mnist_pruning" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.5.2 (C:\Python35\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
